@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/amankhan404/react-portfolio/static/css/main.255fea7d.css",
+    "main.js": "/amankhan404/react-portfolio/static/js/main.b20742c9.js",
+    "static/js/415.4d6acbeb.chunk.js": "/amankhan404/react-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/amankhan404/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AmanKhan_Resume.pdf": "/amankhan404/react-portfolio/static/media/AmanKhan_Resume.bf696ae24d477629bd9b.pdf",
+    "static/media/conss.jpg": "/amankhan404/react-portfolio/static/media/conss.68ee0dc569fb87174cff.jpg",
+    "static/media/gymm.jpg": "/amankhan404/react-portfolio/static/media/gymm.8cff674a5223796cfb03.jpg",
+    "static/media/home-main.svg": "/amankhan404/react-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/amankhan404/react-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/qrcode.jpg": "/amankhan404/react-portfolio/static/media/qrcode.dcb1409e0c180b6a0b08.jpg",
+    "static/media/logo.png": "/amankhan404/react-portfolio/static/media/logo.3a8b2702b561bc456c1a.png",
+    "static/media/textutils.jpg": "/amankhan404/react-portfolio/static/media/textutils.a5f6395f59796afb3608.jpg",
+    "static/media/home-bg.jpg": "/amankhan404/react-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/text-to-specch.jpg": "/amankhan404/react-portfolio/static/media/text-to-specch.496e6a5aa55641a37fc2.jpg",
+    "static/media/UP.jpg": "/amankhan404/react-portfolio/static/media/UP.1d3543421abbfc0dc83a.jpg",
+    "static/media/avatar.svg": "/amankhan404/react-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/amankhan404/react-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/amankhan404/react-portfolio/index.html",
+    "main.255fea7d.css.map": "/amankhan404/react-portfolio/static/css/main.255fea7d.css.map",
+    "main.b20742c9.js.map": "/amankhan404/react-portfolio/static/js/main.b20742c9.js.map",
+    "415.4d6acbeb.chunk.js.map": "/amankhan404/react-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/amankhan404/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255fea7d.css",
+    "static/js/main.b20742c9.js"
+  ]
+}
